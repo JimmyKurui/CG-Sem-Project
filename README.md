@@ -1,7 +1,8 @@
 # CG-Sem-Project
 Computer Graphics Project to create a 2D game, ProgRunner.
 
-*It is implemented using GLFW and GLAD*
+*Previously implemented using GLFW and GLAD* Now GLEW and GLUT
+
 
 ================================================================
 
